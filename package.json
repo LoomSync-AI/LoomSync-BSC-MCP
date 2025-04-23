@@ -1,0 +1,37 @@
+{
+  "name": "bnb-chain-mcp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CobraCn/bnb-mcp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CobraCn/bnb-mcp/issues"
+  },
+  "homepage": "https://github.com/CobraCn/bnb-mcp#readme",
+  "description": "",
+  "dependencies": {
+    "@langchain/anthropic": "^0.3.17",
+    "@langchain/core": "^0.3.44",
+    "@langchain/deepseek": "^0.0.1",
+    "@langchain/langgraph": "^0.2.63",
+    "@modelcontextprotocol/sdk": "^1.9.0",
+    "axios": "^1.8.4",
+    "dotenv": "^16.5.0",
+    "ethers": "^6.13.5",
+    "node-fetch": "^3.3.2",
+    "node-telegram-bot-api": "^0.66.0",
+    "nodemon": "^3.1.9",
+    "openai": "^4.95.1",
+    "uuid": "^11.1.0",
+    "zod": "^3.24.2"
+  }
+}
