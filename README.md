@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/loomsync-ai-loomsync-bsc-mcp-badge.png)](https://mseep.ai/app/loomsync-ai-loomsync-bsc-mcp)
+
 # LoomSync-BSC-MCP
 
 LoomSync-BSC-MCP is a multi-functional BSC (Binance Smart Chain) on-chain interaction and analysis platform based on Node.js, integrating wallet management, token query, on-chain transactions, PancakeSwap liquidity operations, and NFT metadata retrieval, suitable for developers and advanced users to perform in-depth operations and automation on the BSC ecosystem.
